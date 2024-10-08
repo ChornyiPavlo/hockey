@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://loftpineapple.com/sitemap.xml
-Host: loftpineapple.com
+Sitemap: http://pinapaz.hockeyhobby.pro/sitemap.xml
+Host: pinapaz.hockeyhobby.pro
